@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StreamOjan", "StreamOjan\StreamOjan.vcxproj", "{29BDE4BE-B586-446F-97A5-2ABD928B3F88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iofilewithpath", "iofilewithpath\iofilewithpath.vcxproj", "{813913FA-478D-49E1-9A8E-7565CF9967A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{29BDE4BE-B586-446F-97A5-2ABD928B3F88}.Release|x64.Build.0 = Release|x64
 		{29BDE4BE-B586-446F-97A5-2ABD928B3F88}.Release|x86.ActiveCfg = Release|Win32
 		{29BDE4BE-B586-446F-97A5-2ABD928B3F88}.Release|x86.Build.0 = Release|Win32
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Debug|x64.ActiveCfg = Debug|x64
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Debug|x64.Build.0 = Debug|x64
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Debug|x86.Build.0 = Debug|Win32
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Release|x64.ActiveCfg = Release|x64
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Release|x64.Build.0 = Release|x64
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Release|x86.ActiveCfg = Release|Win32
+		{813913FA-478D-49E1-9A8E-7565CF9967A3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
